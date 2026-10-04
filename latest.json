@@ -1,9 +1,9 @@
 {
-  "version": "0.14.29",
-  "versionCode": 61,
-  "publishedAt": "2026-10-04T16:20:00Z",
-  "apk": "BuildBook-v0.14.29-release.apk",
+  "version": "0.14.30",
+  "versionCode": 62,
+  "publishedAt": "2026-10-04T16:30:07Z",
+  "apk": "BuildBook-v0.14.30-release.apk",
   "sizeBytes": 1673851,
-  "sha256": "00f17a54f80793cef49ae5f1a34e595a308656f5e46c946f6dea047d68941f08",
-  "url": "https://github.com/Davedes83/BuildBook-Updates/releases/download/v0.14.29/BuildBook-v0.14.29-release.apk"
+  "sha256": "21df6608dfde7ff6b324c035a475965fe7ef4d5c048bfe514f3664a1dc112006",
+  "url": "https://github.com/Davedes83/BuildBook-Updates/releases/download/v0.14.30/BuildBook-v0.14.30-release.apk"
 }
